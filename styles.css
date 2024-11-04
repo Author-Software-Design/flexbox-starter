@@ -468,7 +468,7 @@ button:focus{
 
 @media screen and (min-width: 875px){
     header{
-        /* TO DO: 12 
+        /* : 12 
     - Use flexbox to adjust the display of the header at wider screen widths.
     - Ensure there is space between the header elements.
     - Include a gap of 32 pixels between the elements.
